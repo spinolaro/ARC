@@ -23,7 +23,7 @@
       <hotspot tilt="-1.35" target="" pan="-96.94" title="" description="" url="" id="Point04" skinid="ht_node"/>
       <hotspot tilt="19.81" target="" pan="-309.19" title="" description="" url="{node4}" id="Point05" skinid="ht_node"/>
       <hotspot tilt="-7.28" target="" pan="-72.25" title="" description="" url="{node15}" id="Point06" skinid="ht_node"/>
-      <hotspot tilt="-5.73" target="" pan="-182.55" title="" description="" url="{node21}" id="Point07" skinid="ht_node"/>
+      <hotspot tilt="-5.55" target="" pan="-184.83" title="" description="" url="{node21}" id="Point07" skinid="ht_node"/>
       <hotspot tilt="-14.09" target="" pan="-67.55" title="" description="" url="{node15}" id="Point08" skinid="ht_node"/>
     </hotspots>
     <media/>
@@ -81,6 +81,7 @@
       <hotspot tilt="-9.43" target="" pan="-302.31" title="" description="" url="{node2}" id="Point03" skinid="ht_node"/>
       <hotspot tilt="-17.71" target="" pan="-214.87" title="" description="" url="{node23}" id="Point04" skinid="ht_node"/>
       <hotspot tilt="-8.55" target="" pan="-277.4" title="" description="" url="{node1}" id="Point05" skinid="ht_node"/>
+      <hotspot tilt="-3.22" target="" pan="-256.03" title="" description="" url="" id="Point06" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" zoomout="0" zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomin="0" enabled="1" type="crossdissolve" softedge="0"/>
@@ -134,6 +135,7 @@
       <hotspot tilt="-25.2" target="" pan="-281.5" title="" description="" url="{node4}" id="Point01" skinid="ht_node"/>
       <hotspot tilt="-16" target="" pan="-317.41" title="" description="" url="{node2}" id="Point02" skinid="ht_node"/>
       <hotspot tilt="-14.89" target="" pan="-298.61" title="" description="" url="{node23}" id="Point03" skinid="ht_node"/>
+      <hotspot tilt="-9.12" target="" pan="-274.97" title="" description="" url="" id="Point04" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" zoomout="0" zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomin="0" enabled="1" type="crossdissolve" softedge="0"/>
@@ -190,7 +192,7 @@
       <hotspot tilt="-2.39" target="" pan="-232.39" title="" description="" url="{node9}" id="Point03" skinid="ht_node"/>
       <hotspot tilt="-6.3" target="" pan="-47.95" title="" description="" url="{node1}" id="Point04" skinid="ht_node"/>
       <hotspot tilt="-15.98" target="" pan="-44.69" title="" description="" url="{node23}" id="Point05" skinid="ht_node"/>
-      <hotspot tilt="-3.6" target="" pan="-17.56" title="" description="" url="{node25}" id="Point06" skinid="ht_node"/>
+      <hotspot tilt="-3.6" target="" pan="-17.56" title="" description="" url="{node21}" id="Point06" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" zoomout="0" zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomin="0" enabled="1" type="crossdissolve" softedge="0"/>
@@ -216,7 +218,7 @@
       <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
       <hotspot tilt="-2.19" target="" pan="-288.6" title="" description="" url="{node9}" id="Point01" skinid="ht_node"/>
       <hotspot tilt="-6.03" target="" pan="-106.13" title="" description="" url="{node7}" id="Point02" skinid="ht_node"/>
-      <hotspot tilt="-1.82" target="" pan="-82.33" title="" description="" url="{node25}" id="Point03" skinid="ht_node"/>
+      <hotspot tilt="-1.82" target="" pan="-82.33" title="" description="" url="{node21}" id="Point03" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" zoomout="0" zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomin="0" enabled="1" type="crossdissolve" softedge="0"/>
@@ -243,7 +245,7 @@
       <hotspot tilt="-2.83" target="" pan="-270.9" title="" description="" url="{node10}" id="Point01" skinid="ht_node"/>
       <hotspot tilt="-3.91" target="" pan="-89.95" title="" description="" url="{node23}" id="Point02" skinid="ht_node"/>
       <hotspot tilt="-2.18" target="" pan="-52.02" title="" description="" url="{node11}" id="Point03" skinid="ht_node"/>
-      <hotspot tilt="-0.54" target="_blank" pan="-77.84" title="" description="" url="" id="Point04" skinid="ht_url"/>
+      <hotspot tilt="-0.54" target="" pan="-77.84" title="" description="" url="{node21}" id="Point04" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" zoomout="0" zoomfov="20" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomin="0" enabled="1" type="crossdissolve" softedge="0"/>
@@ -269,7 +271,7 @@
       <polystyle mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
       <hotspot tilt="-1.68" target="" pan="-273.13" title="" description="" url="{node12}" id="Point01" skinid="ht_node"/>
       <hotspot tilt="-2.2" target="" pan="-58" title="" description="" url="{node21}" id="Point02" skinid="ht_node"/>
-      <hotspot tilt="-0.74" target="" pan="-78.18" title="" description="" url="{node26}" id="Point03" skinid="ht_node"/>
+      <hotspot tilt="-0.74" target="" pan="-78.18" title="" description="" url="{node21}" id="Point03" skinid="ht_node"/>
       <hotspot tilt="-3.15" target="" pan="-90.2" title="" description="" url="{node7}" id="Point04" skinid="ht_node"/>
     </hotspots>
     <media/>
